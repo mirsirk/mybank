@@ -1,0 +1,7 @@
+
+<<<<<<< HEAD
+Hi F3 created. File is already modified in sample2.
+Added a new line in master to test conflict.
+=======
+Hi F3 created. Modified to test conflict with same file in master branch.
+>>>>>>> sample2
