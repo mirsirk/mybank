@@ -1,1 +1,2 @@
 f6 is created in sample2.
+File is modified to test rebasse.
