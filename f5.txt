@@ -1,1 +1,0 @@
-F5 is created in sample2 to test rebase. Branch taken from master.
